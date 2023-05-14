@@ -1,3 +1,10 @@
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/ddnumf97u/image/upload/v1684045787/profile_image/me_small_kavbe9.png" align="center" alt="Tat" />
+ <h2 align="center">nuevocs - Github Profile</h2>
+ <p align="center">here is my github profile page</p>
+</p>
+
+
 ### Profile
 <p align="left">
   <a href="https://github.com/nuevocs/nuevocs/">
