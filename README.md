@@ -12,9 +12,6 @@
   <a href="http://qiita.com/nuevocs">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/posts.svg" />
   </a>
-  <//qiita.com/nuevocs">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/contributions.svg" />
-  </a>
 </p>
 
 ### Stats
