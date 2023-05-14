@@ -4,9 +4,7 @@
  <p align="center">here is my github profile page</p>
 </p>
 
-
-### Profile
-<p align="left">
+<p align="center">
   <a href="https://github.com/nuevocs/nuevocs/">
     <img src="https://komarev.com/ghpvc/?username=nuevocs" alt="nuevocs" />
   </a>
