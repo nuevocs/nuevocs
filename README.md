@@ -1,3 +1,22 @@
+### Profile
+<p align="left">
+  <a href="https://github.com/nuevocs/nuevocs/">
+    <img src="https://komarev.com/ghpvc/?username=nuevocs" alt="nuevocs" />
+  </a>
+  <a href="http://twitter.com/nuevocs">
+    <img height="20" src="https://img.shields.io/twitter/follow/nuevocs?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/nuevocs">
+    <img height="20" src="https://img.shields.io/github/followers/nuevocs?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/nuevocs">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/posts.svg" />
+  </a>
+  <//qiita.com/nuevocs">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/contributions.svg" />
+  </a>
+</p>
+
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuevocs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
