@@ -15,8 +15,6 @@
   <a href="http://qiita.com/nuevocs">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/followers.svg" />
   </a>
-</p>
-<p align="left">
   <a href="https://zenn.dev/nuevocs">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nuevocs/likes" />
   </a>
