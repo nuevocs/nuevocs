@@ -26,12 +26,6 @@
   <a href="https://zenn.dev/nuevocs">
     <img height="20" src="https://zenn.badge.nikaera.com/s/nuevocs/articles" />
   </a>
-  <a href="http://qiita.com/nuevocs">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/nuevocs">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/posts.svg" />
-  </a>
 </p>
 
   
