@@ -20,15 +20,7 @@
   <a href="http://qiita.com/nuevocs">
     <img height="20" src="https://qiita-badge.apiapi.app/s/nuevocs/followers.svg" />
   </a>
-  <a href="https://zenn.dev/nuevocs">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nuevocs/likes" />
-  </a>
-  <a href="https://zenn.dev/nuevocs">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nuevocs/followers" />
-  </a>
-  <a href="https://zenn.dev/nuevocs">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/nuevocs/articles" />
-  </a>
+
 </p>
 
   
